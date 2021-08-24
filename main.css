@@ -13,7 +13,7 @@ body{
 .bg-black{
   background: rgb(125, 133, 94);
 }
-/*=========Slider Section ============*/
+/*=========Slider ============*/
 .carousel-item{
   height: 600px;
 }
